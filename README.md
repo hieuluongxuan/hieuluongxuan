@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Hieu Luong <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate Solution Architect and DevOps Engineer from Vietnam, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Hieu Luong <a href="https://hieuluong.com/">Hieu Luongp</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ansobimat/" target="_blank" rel="noreferrer">Hieu</a> is a passionate Solution Architect and DevOps Engineer from Vietnam, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
