@@ -3,9 +3,8 @@
 
 <p align="center">
   I specialize in building scalable cloud infrastructures, secure multi-agent AI systems, and robust Web3 architectures. <br>
-  Currently exploring the intersection of **Web3 Security (Smart Contract Audits)**, **Trusted Execution Environments (TEEs)**, and **Autonomous AI Agents**.
+  Currently exploring the intersection of <strong>Web3 Security (Smart Contract Audits)</strong>, <strong>Trusted Execution Environments (TEEs)</strong>, and <strong>Autonomous AI Agents</strong>.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ansobimat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
